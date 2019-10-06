@@ -2,7 +2,6 @@
 <img src = "https://dac.com/sites/default/files/styles/template_header_image/public/machine-learning.jpeg?itok=zZ80GsGD">
 
 ## Resources
-<img src = "https://dac.com/sites/default/files/styles/template_header_image/public/machine-learning.jpeg?itok=zZ80GsGD">
 
 * [Tutorials by sentdex](https://www.youtube.com/user/sentdex)
 * [Elements of AI](https://www.elementsofai.com/)
